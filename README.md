@@ -1,10 +1,12 @@
-# Hi there 👋, I'm Nathalie
+# Hi there, I'm Nathalie 👋 😊
 
 ###
 
 <h2 align="left">About me</h2>
 
-<p>I'm a full-stack web developer and enthusiastic nature photographer. I love learning and creating new things, wheter it's code or a great photo.</p>
+<p>I'm a full-stack web developer and enthusiastic nature photographer.</p>
+<p>I love learning and creating new things, wheter it's code or a great photo.</p>
+<p>Check my projects here 👉 <a href="https://www.natgian.com">Portfolio</a></p>
 
 ###
 
