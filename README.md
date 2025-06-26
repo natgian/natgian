@@ -6,7 +6,7 @@
 
 <p>I'm a full-stack web developer and enthusiastic nature photographer from Switzerland.</p>
 <p>I love learning and creating new things, wheter it's code or a great photo.</p>
-<p>Check my projects here 👉 <a href="https://www.natgian.com">Portfolio</a></p>
+<p>Check my projects here 👉 <a href="https://www.natgian.com">www.natgian.com</a></p>
 
 ###
 
