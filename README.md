@@ -2,11 +2,10 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
 <p>I'm a full-stack web developer and enthusiastic nature photographer from Switzerland.</p>
 <p>Always learning, always creating — whether it's code or a great photo.</p>
 <p>Check my projects here 👉 <a href="https://www.natgian.com">www.natgian.com</a></p>
+<br>
 
 ###
 
@@ -45,13 +44,13 @@
 
 ###
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=natgian&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<h2 align="left">Contact me</h2>
 
 ###
 
-<h2 align="left">Contact me</h2>
+<div align="left">
+  Email: <a href="mailto:info@natgian.com">info@natgian.com</a>
+</div>
 
 ###
 
