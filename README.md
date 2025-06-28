@@ -1,4 +1,4 @@
-# Hi there, I'm Nathalie 👋 😊
+# Hi there, I'm Nathalie 👋
 
 ###
 
