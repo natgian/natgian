@@ -13,7 +13,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,firebase,heroku,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,angular,react,nodejs,express,mongodb,firebase,vscode,heroku,figma,ps)](https://skillicons.dev)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natgian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
