@@ -13,7 +13,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,angular,react,nodejs,express,mongodb,firebase,vscode,heroku,figma,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,react,nodejs,express,mongodb,firebase,vscode,heroku,figma,ps)](https://skillicons.dev)
 
 ###
 
