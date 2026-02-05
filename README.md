@@ -22,7 +22,7 @@
 ###
 
 <div align="left">
-  Email: <a href="mailto:info@natgian.com">info@natgian.com</a>
+  Email: <a href="mailto:info@natgian.com">contact@natgian.dev</a>
 </div>
 
 ###
