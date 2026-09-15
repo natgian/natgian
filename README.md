@@ -12,7 +12,7 @@
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,angular,react)](https://skillicons.dev)
 
 #### Backend:
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,python,django,mongodb,firebase,supabase)](https://skillicons.dev)
 
 #### Tools:
 [![Tools](https://skillicons.dev/icons?i=vscode,docker,heroku,figma,ps)](https://skillicons.dev)
